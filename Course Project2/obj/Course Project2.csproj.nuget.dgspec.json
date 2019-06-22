@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Виталик\\source\\repos\\Course Project2\\Course Project2\\Course Project2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Виталик\\source\\repos\\Course Project2\\Course Project2\\Course Project2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Виталик\\source\\repos\\Course Project2\\Course Project2\\Course Project2.csproj",
+        "projectName": "Course Project2",
+        "projectPath": "C:\\Users\\Виталик\\source\\repos\\Course Project2\\Course Project2\\Course Project2.csproj",
+        "packagesPath": "C:\\Users\\Виталик\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Виталик\\source\\repos\\Course Project2\\Course Project2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Виталик\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
